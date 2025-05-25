@@ -1,0 +1,47 @@
+# Data science & ML
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+
+
+# Deep learning (optional)
+tensorflow
+torch
+keras
+
+# Web development (optional)
+flask
+fastapi
+django
+httpx
+uvicorn
+
+# Databases (optional)
+sqlalchemy
+psycopg2
+pymysql
+pymongo
+tinydb
+
+# Packaging & dependency management (optional)
+pip-tools
+build
+twine
+
+# Dev & utility tools
+rich
+loguru
+tqdm
+typer
+pydantic
+
+# Core utilities
+ipython
+black
+flake8
+pytest
+requests
+python-dotenv
