@@ -31,6 +31,12 @@ This repository builds upon original coursework from the JHU Applied GEN AI prog
 The purpose of this repository is not just to showcase coursework, but to demonstrate **initiative, creativity, and a passion for exploring the evolving world of generative AI**.
 
 ---
+## 📚 Resources 
+
+Explore my curated list of [Large Language Model Resources](./ExternalLinks.md) for papers, tools, and insights on LLMs.
+
+
+---
 
 ## 🤝 Contributions & Feedback
 
