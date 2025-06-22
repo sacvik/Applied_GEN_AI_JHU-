@@ -33,7 +33,7 @@ The purpose of this repository is not just to showcase coursework, but to demons
 ---
 ## 📚 Resources 
 
-Explore my curated list of [Large Language Model Resources](./ExternalLinks.md) for papers, tools, and insights on LLMs.
+Explore my curated list of [Large Language Model Resources](./awesome-llm-resources.md) for papers, tools, and insights on LLMs.
 
 
 ---
