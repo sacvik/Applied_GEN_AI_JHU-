@@ -1,4 +1,4 @@
-# 📚 Awesome Large Language Model Resources
+# ![alt text](image-1.png)Large Language Model Resources
 
 A curated collection of resources, papers, tools, and insights on Large Language Models (LLMs) to supercharge your AI journey!
 
@@ -29,8 +29,11 @@ A curated collection of resources, papers, tools, and insights on Large Language
 - **[Tokenization Demystified (Hugging Face)](https://huggingface.co/learn/nlp-course/chapter6/1?utm_source=chatgpt.com)**
 - **[Prompt Engineering: A Core Skill for LLMs](https://www.youtube.com/watch?v=L2jnRk2GYwg)**
 - **[In-Context Learning: How It Works](https://www.lakera.ai/blog/what-is-in-context-learning)**
-
-
+- **[What are LLM-Powered Autonomous Agents?](https://truera.com/ai-quality-education/generative-ai-agents/what-are-llm-powered-autonomous-agents/)**
+- **[How to ReAct To Simple AI Agents](https://arize.com/blog-course/react-agent-llm/)**
+- **[From Chatbots to Agents: Augmenting LLMs With Tools](https://blog.dataiku.com/from-chatbots-to-agents-augmenting-llms-with-tools)**
+- **[LLM Agents](https://www.promptingguide.ai/research/llm-agents)**
+- **[AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/pdf/2312.13771)**
 
 ---
 
@@ -53,7 +56,8 @@ A curated collection of resources, papers, tools, and insights on Large Language
 - **[LLMLingua GitHub Repository](https://github.com/microsoft/LLMLingua)**  
 - **[Everything of Thoughts GitHub](https://github.com/microsoft/Everything-of-Thoughts-XoT)**  
 - **[Transluce Model Investigator](https://monitor.transluce.org/)**  
-- **[Uncensor Any LLM with Abliteration (Hugging Face)](https://huggingface.co/blog/mlabonne/abliteration#uncensor-any-llm-with-abliteration)**  
+- **[Uncensor Any LLM with Abliteration (Hugging Face)](https://huggingface.co/blog/mlabonne/abliteration#uncensor-any-llm-with-abliteration)**
+- **[Playlist by: LangChain](https://youtube.com/playlist?list=PLfaIDFEXuae0gBSJ9T0w7cu7iJZbH3T31&si=0WFBkCxM8x3ub9XR)**
 
 ---
 
@@ -65,7 +69,9 @@ A curated collection of resources, papers, tools, and insights on Large Language
 - **[Extracting Training Data from ChatGPT](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)**  
 - **[SHAP: Explanations for Open-Ended GPT-2 Text Generation](https://shap.readthedocs.io/en/latest/example_notebooks/text_examples/text_generation/Open%20Ended%20GPT2%20Text%20Generation%20Explanations.html)**  
 - **[Universal & Transferable Adversarial Attacks on LLMs](https://llm-attacks.org/index.html#examples)**  
-- **[LLM Attacks: A Comprehensive Guide](https://llm-attacks.org/)**  
+- **[LLM Attacks: A Comprehensive Guide](https://llm-attacks.org/)** 
+- **[mystery of in-context learning (ICL)](https://ai.stanford.edu/blog/understanding-incontext/)**
+- **[]()**
 
 ---
 

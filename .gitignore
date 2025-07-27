@@ -1,8 +1,9 @@
 # files
-Mid-Term-Project/config.json
-Mid-Term-Project/*.csv
+**config.json
+**.csv
 
-
+**ProjectFiles
+**.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
